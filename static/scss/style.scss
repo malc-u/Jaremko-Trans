@@ -1,2 +1,10 @@
 // Font import
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;600&display=swap');
+
+//Page body
+body {
+    background-color: #c0cfdb;
+    font-size: calc(12px + 1vw);
+    font-family: 'Bodoni Moda', serif;
+    scroll-behavior: smooth;
+}
