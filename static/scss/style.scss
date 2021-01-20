@@ -8,3 +8,17 @@ body {
     font-family: 'Bodoni Moda', serif;
     scroll-behavior: smooth;
 }
+
+
+// Background and navigation classes
+.bg-transparent {
+    background-color: rgba(0,0,0,0);
+} 
+
+.lang img, .lang-toggler img {
+   height: 2rem;
+}
+
+.nav-item {
+    border-right: 1px solid black;
+}
