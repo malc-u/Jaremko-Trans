@@ -5,6 +5,7 @@
 //Page body
 body {
     background-color: #c0cfdb;
+    color: #000;
     font-size: calc(10px + 1vw);
     font-family: 'Lato', serif;
     scroll-behavior: smooth;
@@ -26,6 +27,7 @@ nav {
     font-weight: bold;
 }
 
+// Home section
 #home {
     background: url("../images/marek.jpg") no-repeat right center fixed;
     position: relative;
