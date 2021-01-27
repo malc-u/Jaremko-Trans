@@ -55,7 +55,7 @@ h4 {
 }
 
 #contact {
-  min-height: 100vh;
+  min-height: 90vh;
   background-color: #000;
   color: #fff;
 }
@@ -77,4 +77,13 @@ h4 {
 iframe {
   width: 35vw;
   min-height: 50vh;
+}
+
+#footer {
+  background-color: #000;
+  color: #c0cfdb;
+}
+
+#footer p {
+  font-size: 1rem;
 }
