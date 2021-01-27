@@ -66,3 +66,29 @@ ul {
 h4 {
     font-weight: bolder;
 }
+
+//Conctact section
+#contact {
+    min-height: 100vh;
+    background-color: #000;
+    color: #fff;
+}
+
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #c0cfdb;
+    text-decoration: none;
+}
+
+#contact-header {
+    font-family: 'Bodoni Moda', sans-serif;
+}
+
+iframe {
+    width: 35vw;
+    min-height: 50vh;
+}

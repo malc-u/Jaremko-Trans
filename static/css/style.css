@@ -3,7 +3,7 @@
 body {
   background-color: #c0cfdb;
   color: #000;
-  font-size: calc(10px + 1vw);
+  font-size: calc(9px + 1vw);
   font-family: 'Lato', serif;
   scroll-behavior: smooth;
 }
@@ -52,4 +52,29 @@ ul {
 
 h4 {
   font-weight: bolder;
+}
+
+#contact {
+  min-height: 100vh;
+  background-color: #000;
+  color: #fff;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #c0cfdb;
+  text-decoration: none;
+}
+
+#contact-header {
+  font-family: 'Bodoni Moda', sans-serif;
+}
+
+iframe {
+  width: 35vw;
+  min-height: 50vh;
 }
